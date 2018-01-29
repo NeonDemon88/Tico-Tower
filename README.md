@@ -1,5 +1,5 @@
 # Tico-Tower
-Responsive webpages, created using HTML5, CSS, jQuery and jQueryMobile.
+Responsive webpages, created with HTML5, CSS, jQuery and jQueryMobile.
 See what the page looks like, when rendered (works best with Chrome): http://tinyurl.com/TicoTower.
 
 <b>!HOX!
